@@ -1,4 +1,4 @@
-![A screenshot of the web page](./images/ss2.jpg)
+![A screenshot of the web page](./public/images/ss.png)
 
 # Rachel-Model-View-Controller
 
